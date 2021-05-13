@@ -1,0 +1,10 @@
+git init
+git config --global user.name 'Gaurang Tandon'
+git config --global user.email 'gaurang.tandon@gmail.com'
+git status
+git add .
+git commit
+git branch login
+git remote add origin https://github.com/gaurang-tandon/python-practice.git
+git branch -M main
+git push -u origin main
